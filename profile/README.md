@@ -2,6 +2,8 @@
 
 XRPL Bounties sets aside pre-defined funding for the completion of specific ideas and projects that benefit the XRP Ledger community.
 
+# XRPL Bounties is currently in private beta.
+
 ## The Bounty Lifecycle
 
 1. **Initial proposal** - you, or anyone in the community, can share an idea by [creating an issue](https://github.com/XRPLBounties/Bounties/issues/new).
