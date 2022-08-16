@@ -2,7 +2,7 @@
 
 XRPL Bounties is an XRP Ledger developer bounty program where funds are set aside for the completion of specific features and projects that benefit the XRPL community. The target audience is software developers with expertise or experience in specific industries or vertical markets where high priority needs have been identified.
 
-(XRPL Bounties provides funding for the development of open source software and integrations. It is not a bug bounty program; however, there is a [Ripple Bug Bounty Program](https://ripple.com/legal/bug-bounty/).)
+(This program provides funding for the development of open source software and integrations. **XRPL Bounties** is not a bug bounty program; however, there is a separate **[Ripple Bug Bounty Program](https://ripple.com/legal/bug-bounty/)**.)
 
 # XRPL Bounties is currently in private beta.
 
