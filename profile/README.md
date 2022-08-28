@@ -1,4 +1,4 @@
-# XRPL Bounties 💰
+![XRPLBounties_ Banner](https://user-images.githubusercontent.com/81505/187058580-15bde16a-18b8-47b4-940f-80401564a99c.png)
 
 XRPL Bounties is an XRP Ledger developer bounty program where funds are set aside for the completion of specific features and projects that benefit the XRPL community. The target audience is software developers with expertise or experience in specific industries or vertical markets where high priority needs have been identified.
 
@@ -8,7 +8,7 @@ XRPL Bounties is an XRP Ledger developer bounty program where funds are set asid
 
 ## The Bounty Lifecycle
 
-1. **Initial proposal** - you, or anyone in the community, can share an idea by [creating an issue](https://github.com/XRPLBounties/Bounties/issues/new).
+1. **Initial proposal** - you, or anyone in the community, can share an idea by [starting a `New discussion`](https://github.com/XRPLBounties/Proposals/discussions).
 
 2. **Formal spec** - propose formal requirements and propose a bounty amount by [opening a Pull Request](https://github.com/XRPLBounties/Bounties/pulls).
 
