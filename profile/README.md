@@ -1,10 +1,11 @@
 ![XRPLBounties_ Banner](https://user-images.githubusercontent.com/81505/187058580-15bde16a-18b8-47b4-940f-80401564a99c.png)
 
-XRPL Bounties is an XRP Ledger developer bounty program where funds are set aside for the completion of specific features and projects that benefit the XRPL community. The target audience is software developers with expertise or experience in specific industries or vertical markets where high priority needs have been identified.
+XRPL Bounties is a program that funds software developers and teams for the completion of specific ideas and projects that benefit the XRP Ledger (XRPL) community. 
 
-(This program provides funding for the development of open source software and integrations. **XRPL Bounties** is not a bug bounty program; however, there is a separate **[Ripple Bug Bounty Program](https://ripple.com/legal/bug-bounty/)**.)
+In the spirit of the public and transparent XRP Ledger, XRPL Bounties are fully open source and all ideas are released into the public domain.
 
-# XRPL Bounties is currently in private beta.
+Note: This is not a bug bounty program. If you are looking for a bug bounty program, check out Ripple’s **[here](https://ripple.com/legal/bug-bounty/)**.
+
 
 ## The Bounty Lifecycle
 
@@ -16,19 +17,25 @@ XRPL Bounties is an XRP Ledger developer bounty program where funds are set asid
 
 4. **Formal approval** - the PR will be approved for a particular bounty amount. If approved, the bounty will have a dedicated budget set aside for its completion. The PR will then be merged into the repo. **Bounties are not available to be picked up until after they have been merged into `main`.**
 
-5. **Open for submissions** - the bounty will open for developers to pick up. During this time, developers onboard through a lightweight approval process in order to ensure eligibility. **Developers are not eligible to receive a bounty until they have completed compliance approval.** Depending on the urgency and scope of the bounty, it may remain open for anywhere between 1-6 months.
+5. **Open for submissions** - the bounty will open for developers to pick up. During this time, developers onboard through a lightweight approval process in order to ensure eligibility. Developers are not eligible to receive a bounty if they do not meet compliance requirements.\* Depending on the urgency and scope of the bounty, bounties may remain open for anywhere between 1-6 months.
 
-6. **Review of submissions** - the team will review submissions as they come in, with a response time of 5 business days or less. Submissions that successfully meet all the criteria for a milestone payout will move to the next step.
+6. **Review of submissions** - the team will review submissions as they come in, with an estimated response time of about 5 business days or less. Bounties will likely require back and forth to ensure that all completion criteria are met. Submissions that successfully meet all the criteria for a milestone payout will move to the next step.
 
 7. **Approval of bounty payout** - the payout will be approved and completed.
 
-<!--
+\* See terms and conditions
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br> 
+
+## Proposing New Bounties
+You can join the discussion and propose new ideas here: <br>
+[https://github.com/XRPLBounties/Proposals/discussions](https://github.com/XRPLBounties/Proposals/discussions)
+
+<br>
+
+## Picking Up A Bounty
+You can see active bounties right now by going to the Proposals repo here: <br>
+[https://github.com/XRPLBounties/Proposals](https://github.com/XRPLBounties/Proposals)
+
+Read the README.md for more details on getting started!
