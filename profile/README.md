@@ -6,6 +6,11 @@ In the spirit of the public and transparent XRP Ledger, XRPL Bounties are fully 
 
 Note: This is not a bug bounty program. If you are looking for a bug bounty program, check out Ripple’s **[here](https://ripple.com/legal/bug-bounty/)**.
 
+# Picking Up A Bounty
+You can see active bounties **right now** by going to the Proposals repo here: <br>
+[https://github.com/XRPLBounties/Proposals](https://github.com/XRPLBounties/Proposals)
+
+Read the README.md for more details on getting started!
 
 ## The Bounty Lifecycle
 
@@ -34,8 +39,6 @@ You can join the discussion and propose new ideas here: <br>
 
 <br>
 
-## Picking Up A Bounty
-You can see active bounties right now by going to the Proposals repo here: <br>
+**To see the bounties, go here and read the README.md!**
 [https://github.com/XRPLBounties/Proposals](https://github.com/XRPLBounties/Proposals)
 
-Read the README.md for more details on getting started!
