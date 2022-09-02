@@ -23,7 +23,7 @@ Note: This is not a bug bounty program. If you are looking for a bug bounty prog
 
 7. **Approval of bounty payout** - the payout will be approved and completed.
 
-\* See terms and conditions
+\* [See terms and conditions](https://github.com/XRPLBounties/Proposals/blob/main/terms_and_conditions.txt)
 
 
 <br> 
